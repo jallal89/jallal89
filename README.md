@@ -6,4 +6,4 @@
 - Human Languages: English, Arabic, Kurdish
 - Main Skills: Python, SQL, Excel, Google Sheets, Tabelau, linguist
 - Fun activities: I like to drink chai (tea) and coffee, I watch soccer, I like to run, and meet friends and family
-- Welcome to my Github 
+- Welcome to my Github page
