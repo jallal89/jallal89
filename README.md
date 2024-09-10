@@ -5,6 +5,7 @@
 - Programming Languages: Python, SQL
 - Human Languages: English, Arabic, Kurdish
 - Main Skills: Python, SQL, Excel, Google Sheets, Tableau, linguist
+- To check my professional certificates in data analysis, please check my Linkedin at: www.linkedin.com/in/jallal-isa
 - Fun activities: I like to drink chai (tea) and coffee, I watch soccer, I like to run, and meet friends and family
 - Welcome to my Github page
 
