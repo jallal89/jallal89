@@ -1,4 +1,4 @@
-#  Hi, I’m @jallal89 👋
+#  Hi, I’m @jallal89
 Welcome to my page! 
 ## Here are a few things about me:
 
