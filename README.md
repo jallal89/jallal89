@@ -11,7 +11,7 @@ Welcome to my page!
 - Fun activities: I like to drink chai (tea) and coffee, I watch soccer, I like to run, and meet friends and family
 - Welcome to my Github page
 
-### Professional Certificates: 
+#### Professional Certificates: 
 - Google Data Analytics Professional Certificate
 - Google Advanced Data Analytics Professional Certificate
 - Meta Data Analyst Professional Certificate
