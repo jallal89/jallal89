@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @jallal89
-WEelcome to my page! 
+Welcome to my page! 
 ## Here are a few things about me:
 
 - Education: Bachelor degree from Texas State University
