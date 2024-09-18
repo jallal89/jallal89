@@ -3,7 +3,7 @@ Welcome to my page!
 ## Here are a few things about me:
 - Education: Bachelor degree from Texas State University
 - Major: Computer Information Systems
-- Other fields: Linguist
+- Other fields: Linguist, Data Analysis
 - Programming Languages: Python, SQL
 - Human Languages: English, Arabic, Kurdish
 - Main Skills: Python, SQL, Excel, Google Sheets, Tableau, linguist
