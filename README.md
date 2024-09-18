@@ -19,4 +19,4 @@ Welcome to my page!
 - Google AI Essentials
 - Microsoft Certified: Azure Fundamentals
   
-Note: to see my work experience and professional certificates, please check my LinkedIn at: www.linkedin.com/in/jallal-isa
+To see my work experience and professional certificates, please check my LinkedIn at: www.linkedin.com/in/jallal-isa
